@@ -2,7 +2,7 @@
 - 👀 I’m interested in job of data analysis 
 - 🌱 I’m currently learning SQL, Power BI, Python, Tableau and other tools of analysis
 - 💞️ I’m looking to collaborate on projects of data architecture and analysis or ETL process
-- 📫 How to reach me [CLICK HERE](https://linktr.ee/samuelms98)
+- 📫 How to reach me? It's easy! [Just Click Here](https://linktr.ee/samuelms98)
 
 
 Professional Summary
