@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Samuelmds98
-- 👀 I’m interested in job of data analysis 
+- 👋 Hello, what's up? I’m @Samuelmds98
+- 👀 I’m very interested in job of data analysis 
 - 🌱 I’m currently learning SQL, Power BI, Python, Tableau and other tools of analysis
-- 💞️ I’m looking to collaborate on projects of data architecture and analysis or ETL process
+- 💞️ I’m looking to collaborate on projects of data architecture and analysis or ETL processes
 - 📫 How to reach me? It's easy! [Just Click Here](https://linktr.ee/samuelms98)
+- :phone: Contact me, I never asked you for anything hehe...
 
 
-Professional Summary
+:newspaper: Professional Summary of Samuel Mendes
 
 I am a professional with experience in commercial administration, back-office operations, 
 and logistics. Currently, I work as a Commercial Administrative Assistant at Grupo EMMA, 
