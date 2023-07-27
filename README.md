@@ -31,4 +31,4 @@ such as Microsoft 365, Google Tools, and ERP systems. My experience in different
 and sectors has provided me with a strong macro business perspective, work ethic, 
 attention to detail, and the ability to prioritize and manage tasks effectively.
 
-Languages: Portuguese (native), English (basic).
+Languages: Portuguese (native), English (intermediary).
