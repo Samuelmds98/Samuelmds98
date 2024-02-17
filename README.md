@@ -8,27 +8,54 @@
 
 :newspaper: Professional Summary of Samuel Mendes
 
-I am a professional with experience in commercial administration, back-office operations, 
-and logistics. Currently, I work as a Commercial Administrative Assistant at Grupo EMMA, 
-where I perform activities such as credit analysis, commercial conditions, providing support
-to managers, generating reports, and data analysis. Previously, I worked as a Property 
-Administrative Assistant at Magazine Luiza, where I focused on risk analysis and prevention, 
-monitoring and analysis of security regulations, report generation, and corporate education
-on internal procedures.
+Dear reader,
+It is with great pleasure that I share my professional experiences and skills with you.
 
-I also worked as a Logistics Assistant at Casa Magalhães, where I dealt with route planning, 
-vehicle maintenance control, monitoring of driver attendance and performance, 
-communication with clients and suppliers. Prior to that, I worked as a Warehouse Assistant, 
-being responsible for receiving and verifying goods, processing orders, dispatching 
-products to customers, inventory management, and process auditing.
+**Currently, I work as a Business Intelligence Analyst at Sou Energy, where I perform the following activities:**
 
-Currently, I am pursuing a Data Analytics program at Digital College Brasil, where I am 
-enhancing my skills in SQL, Excel, Power BI, Tableau, Python, and Statistics.
+Portfolio analysis
+Sales performance indicators
+Lead analysis
+Other analyses that identify business opportunities and support the Commercial Management team in their strategies.
 
-Overall, I have a comprehensive set of skills, including analytical abilities, interpersonal skills, 
-business development, communication, and proficiency in various software applications 
-such as Microsoft 365, Google Tools, and ERP systems. My experience in different positions 
-and sectors has provided me with a strong macro business perspective, work ethic, 
-attention to detail, and the ability to prioritize and manage tasks effectively.
+**Previously, I worked as a Commercial Backoffice at the EMMA Group, where I carried out the following activities:**
 
-Languages: Portuguese (native), English (intermediary).
+Credit analysis
+Order and commercial conditions analysis
+Support to commercial team managers
+
+**I also worked as an Asset Manager at Magazine Luiza, where I developed the following skills:**
+
+Risk analysis and prevention
+Monitoring of safety regulations
+Corporate safety education
+Ability to deal with complex challenges and promote a safe environment.
+
+**In addition, I gained leadership experience as a Logistics Assistant at the Casa Magalhães Group, where I was responsible for the following tasks:**
+
+Managing drivers and route planning
+Controlling vehicle maintenance
+Communicating with customers and suppliers regarding deliveries
+Participating in the optimization of logistics processes and inventory management
+As a data analysis enthusiast, I am currently improving my skills through a specialized training program at Digital College Brasil. I am acquiring knowledge in the following areas:
+
+SQL and NoSQL databases
+Power BI
+Tableau
+Pentaho
+Python
+Statistics
+This allows me to provide strategic insights and drive informed decision-making.
+
+**In addition to my technical skills, I highlight my ability to:**
+
+Cultivate interpersonal relationships
+Contribute to the development of teams and businesses
+Use proficiently various applications and software tools, such as Microsoft 365, Google Tools, and ERP systems.
+I am confident that my skills and experience would be a valuable asset to your team.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Samuel Mendes]
