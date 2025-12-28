@@ -54,10 +54,10 @@ Foco em Engenharia e analise de Dados. Responsável pela criação de pipelines 
 ### 📚 Estudos & Desenvolvimento
 Estou aprofundando meus conhecimentos técnicos para Arquitetura de Dados:
 
-- 🐳 **Docker:** Containerização de aplicações e pipelines.
-- 🧱 **Terraform:** Infraestrutura como Código (IaC) para provisionamento de recursos.
-- ⚡ **Apache Spark:** Processamento distribuído de Big Data.
-- 🏗️ **Arquitetura de Dados:** Conceitos de Data Mesh, Lakehouse e Escalabilidade.
+- 🐳 **Docker:** Containerização de aplicações e pipelines de dados.
+- ☁️ **Google Cloud (BigQuery):** Data Warehousing serverless e processamento em nuvem.
+- 🤖 **CI/CD (GitHub Actions):** Automação de testes e deploy de pipelines de dados.
+- 🏗️ **Arquitetura de Dados:** Conceitos de Data Mesh, Lakehouse e Governança.
 
 ---
 
