@@ -1,61 +1,73 @@
-- 👋 Hello, what's up? I’m @Samuelmds98
-- 👀 I’m very interested in job of data analysis 
-- 🌱 I’m currently learning SQL, Power BI, Python, Tableau and other tools of analysis
-- 💞️ I’m looking to collaborate on projects of data architecture and analysis or ETL processes
-- 📫 How to reach me? It's easy! [Just Click Here](https://linktr.ee/samuelms98)
-- :phone: Contact me, I never asked you for anything hehe...
+# Olá, sou o Samuel Mendes 👋
 
+### 📊 Data Analyst | Analytics Engineer
 
-:newspaper: Professional Summary of Samuel Mendes
+Sou um profissional de dados focado na transição para **Engenharia e Arquitetura de Dados**. 
+Meu objetivo não é apenas analisar números, mas construir a infraestrutura, as automações e a governança que tornam os dados confiáveis para decisões de alto impacto.
 
-Dear reader,
-It is with great pleasure that I share my professional experiences and skills with you.
+Atualmente, participo de iniciativas de Governança e Qualidade de Dados na **Unimed Fortaleza**.
 
-**Currently, I work as a Business Intelligence Analyst at Sou Energy, where I perform the following activities:**
+---
 
-Portfolio analysis
-Sales performance indicators
-Lead analysis
-Other analyses that identify business opportunities and support the Commercial Management team in their strategies.
+### 🚀 Destaques de Carreira (High Impact)
 
-**Previously, I worked as a Commercial Backoffice at the EMMA Group, where I carried out the following activities:**
+* **💰 R$ 3 Milhões em Savings:** Desenvolvi modelos de segmentação (Python/K-Means) que identificaram contratos deficitários, fundamentando decisões estratégicas de saneamento de carteira.
+* **⚡ Automação Extrema (ETL):** Reduzi um processo crítico de comissionamento de **3 dias para 20 minutos** criando scripts Python que integram API, DW e planilhas, eliminando erros manuais.
+* **🛡️ Governança de Dados:** Atuo na padronização de KPIs e implementação de "Single Source of Truth" entre as áreas Comercial e Financeira.
 
-Credit analysis
-Order and commercial conditions analysis
-Support to commercial team managers
+---
 
-**I also worked as an Asset Manager at Magazine Luiza, where I developed the following skills:**
+### 🛠️ Tech Stack & Ferramentas
 
-Risk analysis and prevention
-Monitoring of safety regulations
-Corporate safety education
-Ability to deal with complex challenges and promote a safe environment.
+**Engenharia & Dados:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-green?style=for-the-badge)
 
-**In addition, I gained leadership experience as a Logistics Assistant at the Casa Magalhães Group, where I was responsible for the following tasks:**
+**Infraestrutura:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Managing drivers and route planning
-Controlling vehicle maintenance
-Communicating with customers and suppliers regarding deliveries
-Participating in the optimization of logistics processes and inventory management
-As a data analysis enthusiast, I am currently improving my skills through a specialized training program at Digital College Brasil. I am acquiring knowledge in the following areas:
+**Visualização & Analytics:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Automations-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-SQL and NoSQL databases
-Power BI
-Tableau
-Pentaho
-Python
-Statistics
-This allows me to provide strategic insights and drive informed decision-making.
+**Operações & Gestão Ágil:**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**In addition to my technical skills, I highlight my ability to:**
+---
 
-Cultivate interpersonal relationships
-Contribute to the development of teams and businesses
-Use proficiently various applications and software tools, such as Microsoft 365, Google Tools, and ERP systems.
-I am confident that my skills and experience would be a valuable asset to your team.
+### 💼 Experiência Profissional Recente
 
-Thank you for your time and consideration.
+**Analista de Inteligência de Negócios @ Unimed Fortaleza** *(Atual)*
+Foco em Governança, Qualidade de Dados e padronização de métricas para o setor de seguros. Anteriormente, atuei com ETL, Dataviz e Data mining focado na retenção e rentabilidade da carteira PJ.
 
-Sincerely,
+**Analista de Inteligência Comercial @ Sou Energy**
+Foco em Engenharia e analise de Dados. Responsável pela criação de pipelines ETL em Python integrando dados de APIs públicas (IBGE), ERP Winthor e Google Sheets para dar visibilidade comercial, além de construção de paineis (Power BI) para acompanhamento de campanhas comerciais e comissionamentos.
 
-[Samuel Mendes]
+---
+
+### 📚 Estudos & Desenvolvimento
+Estou aprofundando meus conhecimentos técnicos para Arquitetura de Dados:
+
+- 🐳 **Docker:** Containerização de aplicações e pipelines.
+- 🧱 **Terraform:** Infraestrutura como Código (IaC) para provisionamento de recursos.
+- ⚡ **Apache Spark:** Processamento distribuído de Big Data.
+- 🏗️ **Arquitetura de Dados:** Conceitos de Data Mesh, Lakehouse e Escalabilidade.
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/smendesanalyst/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:samuelmds16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
